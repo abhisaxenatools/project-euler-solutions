@@ -1,4 +1,4 @@
-// This problem is solved in JS as per the requirement of TOP.
+// This problem is solved in JS as specified in the TOP.
 
 var sum = 0;
 for (var i = 0; i < 1000; i++) {
